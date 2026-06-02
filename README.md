@@ -13,6 +13,19 @@ https://github.com/wlzero7
 
 # 📚 Sistema de Biblioteca SQL
 
+## 🎯 Objetivo
+
+Este projeto foi desenvolvido para consolidar conhecimentos em Banco de Dados Relacional, modelagem de dados e linguagem SQL, aplicando conceitos utilizados em sistemas reais de gerenciamento de bibliotecas.
+
+O foco principal foi praticar:
+
+- Criação de tabelas
+- Relacionamentos entre entidades
+- Chaves primárias e estrangeiras
+- Inserção de dados
+- Consultas SQL avançadas
+- Organização de projetos utilizando Git e GitHub
+
 ## 📖 Sobre o Projeto
 
 Projeto desenvolvido para praticar conceitos de Banco de Dados Relacional utilizando SQL.

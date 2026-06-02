@@ -11,35 +11,44 @@ https://www.linkedin.com/in/william-campos-de-jesus-358467359/
 🔗 GitHub:
 https://github.com/wlzero7
 
-# Sistema de Biblioteca SQL
+# 📚 Sistema de Biblioteca SQL
 
-Projeto de banco de dados desenvolvido para praticar modelagem, criação de tabelas, relacionamentos e consultas SQL.
+## 📖 Sobre o Projeto
 
-## Objetivo
+Projeto desenvolvido para praticar conceitos de Banco de Dados Relacional utilizando SQL.
 
-Simular o funcionamento básico de uma biblioteca, permitindo o cadastro de livros, autores, usuários e empréstimos.
+O sistema simula o funcionamento de uma biblioteca, permitindo o gerenciamento de:
 
-## Tecnologias Utilizadas
+- Livros
+- Autores
+- Categorias
+- Editoras
+- Usuários
+- Empréstimos
+
+## 🚀 Tecnologias
 
 - SQL
+- MySQL
 - Modelagem de Dados
 - Banco de Dados Relacional
 
-## Entidades do Projeto
+## 🛠 Funcionalidades
 
-- Usuários
-- Livros
-- Autores
-- Editoras
-- Categorias
-- Empréstimos
+✔ Cadastro de livros
 
-## Conceitos Aplicados
+✔ Cadastro de usuários
 
-- Chaves primárias
-- Chaves estrangeiras
-- Relacionamentos entre tabelas
-- Normalização básica
-- Consultas com JOIN
-- Filtros com WHERE
-- Agrupamentos com GROUP BY
+✔ Controle de empréstimos
+
+✔ Relacionamentos entre tabelas
+
+✔ Consultas avançadas utilizando JOIN
+
+✔ Agrupamentos utilizando GROUP BY
+
+✔ Filtros utilizando WHERE
+
+## 📂 Estrutura do Projeto
+
+...

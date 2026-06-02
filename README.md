@@ -1,3 +1,16 @@
+
+## 👨‍💻 Autor
+
+William Campos de Jesus
+
+Estudante de Ciência da Computação na Universidade Veiga de Almeida.
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/william-campos-de-jesus-358467359/
+
+🔗 GitHub:
+https://github.com/wlzero7
+
 # Sistema de Biblioteca SQL
 
 Projeto de banco de dados desenvolvido para praticar modelagem, criação de tabelas, relacionamentos e consultas SQL.
